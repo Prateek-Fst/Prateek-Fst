@@ -3,15 +3,15 @@
 <h3 align="center">A passionate Fullstack developer</h3>
  <img  align="right"  width="400" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="chetansingh14" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansingh14&label=Profile%20views&color=0e75b6&style=flat" alt="chetansingh14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansingh14&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 - 📫 How to reach me **choudharyprateek131@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prateek-choudhary-317422292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chetan-singh-6022b1298/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prateek-choudhary-317422292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[[(https://www.linkedin.com/in/prateek-choudhary-317422292/)](https://www.linkedin.com/in/prateek-choudhary-317422292/)" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/dashboard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/dashboard" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Prateek2109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/chetansingh981059/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Prateek2109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/choudharyp8jc9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/siradhanawozo/" height="30" width="40" /></a>
 </p>
 
