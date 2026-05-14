@@ -1,9 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/ChetanSingh14)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/Prateek-Fst)
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
- <img  align="right"  width="400" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="chetansingh14" /> </p>
+ <img  align="right"  width="400" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="prateek" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansingh14&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-fst&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 - 📫 How to reach me **choudharyprateek131@gmail.com**
 
